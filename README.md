@@ -19,7 +19,7 @@
   In your terminal you want to npm install mysql2, console.table and inquirer. If you want you can click [here](https://drive.google.com/file/d/1dMcr6rgAFqo3F6PV-D7Ho8CQTNgs5_va/view) to see a demo.
   
   ## License
-  This project uses 
+  This project uses no License
   
   
 
